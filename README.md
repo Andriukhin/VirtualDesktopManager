@@ -8,5 +8,6 @@ VirtualDesktopManager is Pascal wrapper for IVirtualDesktopManager/IVirtualDeskt
 * more...
 
 See also...
-* [VirtualDesktopManager/Demo/](VirtualDesktopManager/Demo/) Demo
+* Demo project
+
 ![](https://github.com/Andriukhin/VirtualDesktopManager/blob/master/Demo/Screenshot.png)
